@@ -1,4 +1,5 @@
-### Hi! I'm Elísio Mualumene
+### Hi! 🧐
+## I'm Elísio Mualumene
 
 [![Blog](https://img.shields.io/badge/elisiomualumene-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://elisiomualumene.epizy.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/#)
