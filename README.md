@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ElisioMualumene)
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisiomualumene)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisiomualumene&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisiomualumene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Elisio's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisiomualumene&show_icons=true&theme=tokyonight)
 
 ## Tenhnologies I use on a Daily Basis
