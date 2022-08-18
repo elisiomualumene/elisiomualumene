@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elísio Mualumene</h1>
 <h3 align="center">A passionate fullstack developer from Angola</h3>
 
-- ⚡ **The Sky isn't The Limit**
+- ⚡ **The Sky isn't The Limit** - ⚡ **Never Stop Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
