@@ -15,3 +15,5 @@
 <p>Seja bem-vindo ao meu Github! Eu sou um desenvolvedor de software versátil, com habilidades em mobile, web e backend. Trabalho com tecnologias como TypeScript, JavaScript, AWS, AZURE, Node.js, React.js e React Native, entre outras.
 
 Minha experiência no desenvolvimento de aplicativos para várias plataformas me permite criar soluções escaláveis e altamente eficientes para diversos tipos de projetos. Eu me esforço para criar códigos limpos e organizados, que podem ser facilmente mantidos e atualizados.</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisiomualumene&layout=compact)](https://github.com/elisiomualumene/github-readme-stats)
