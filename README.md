@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elísio Mualumene</h1>
-<h3 align="center">A passionate fullstack developer from Angola</h3>
+<h3 align="center">A passionate fullCycle developer from Angola</h3>
 
 - ⚡ **The Sky isn't The Limit** - ⚡ **Never Stop Learning**
 
